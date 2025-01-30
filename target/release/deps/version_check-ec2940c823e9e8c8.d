@@ -1,0 +1,10 @@
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\libversion_check-ec2940c823e9e8c8.rmeta: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\libversion_check-ec2940c823e9e8c8.rlib: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\version_check-ec2940c823e9e8c8.d: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src/lib.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs:

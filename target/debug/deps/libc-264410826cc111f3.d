@@ -1,0 +1,9 @@
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\debug\deps\liblibc-264410826cc111f3.rmeta: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\macros.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\fixed_width_ints.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\mod.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\msvc\mod.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\debug\deps\libc-264410826cc111f3.d: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\macros.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\fixed_width_ints.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\mod.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\msvc\mod.rs
+
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src/lib.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\macros.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\fixed_width_ints.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\mod.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.169\src\windows\msvc\mod.rs:

@@ -1,0 +1,10 @@
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\debug\deps\libsha1-f714038b106faaa6.rmeta: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\soft.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\x86.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\debug\deps\libsha1-f714038b106faaa6.rlib: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\soft.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\x86.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\debug\deps\sha1-f714038b106faaa6.d: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\soft.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\x86.rs
+
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\lib.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\soft.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha1-0.10.6\src\compress\x86.rs:

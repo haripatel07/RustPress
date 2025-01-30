@@ -1,0 +1,10 @@
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\libanstyle_wincon-e6adceb99f7927eb.rmeta: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\libanstyle_wincon-e6adceb99f7927eb.rlib: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Hari Patel\Documents\projects\Rust_Projects\rust_compressor\target\release\deps\anstyle_wincon-e6adceb99f7927eb.d: C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src/lib.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\Hari\ Patel\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.7\src\windows.rs:
